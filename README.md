@@ -67,8 +67,8 @@
     - Represents event name with respect to each game.
 15. Medal:
     - Represents  type of medal won by each athlete.
-    - It contains gold,silver,bronze medals.
-    - NA represnts no medal won by the athlete.
+    - It contains gold, silver,bronze medals.
+    - NA represents no medal won by the athlete.
     - There are 222153 null values.
    
 #### olympics_history_noc_regions table

@@ -125,6 +125,7 @@
 
 #### Q.10 In which Sport/event, India has won the highest medals?
 - India has won most of medals in **Hockey** Sport with the count of **161**.
+- 
 <img width="152" alt="Screenshot 2023-08-21 at 15 54 40" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/6ccb5f06-a114-403b-8042-3173d69a1c76">
 
 #### Q.11 Break down all Olympic games where India won a medal for Hockey and how many medals in each Olympic game.

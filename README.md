@@ -132,6 +132,7 @@
   <img width="1003" alt="Screenshot 2023-08-21 at 15 56 27" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/f1543d12-bfc7-4ecf-b99c-1270ec11f0ab">
 
   #### Q.12 List top 15 down total gold, silver and bronze medals won by each country corresponding to each Olympic games.
+  -hgguify
   
 
 

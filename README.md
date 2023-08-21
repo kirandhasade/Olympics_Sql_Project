@@ -134,7 +134,6 @@
 
   #### Q.12 List top 15 down total gold, silver and bronze medals won by each country corresponding to each Olympic games.
   - Russia has won most of the gold medals i.e. **187** in 1984 Summer Olympic games,while USA won least number of medals in 1904 Summer i.e. **115**.
-  
-
+  <img width="412" alt="Screenshot 2023-08-21 at 16 14 50" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/3643b576-4db7-4099-ada7-47e7b0707bc4">
 
 

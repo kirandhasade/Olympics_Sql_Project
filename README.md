@@ -26,12 +26,12 @@
 - In which Sport/event, India has won highest medal?
 - List top 15 down total gold, silver and bronze medals won by each country corresponding to each olympic games?
 
-- ### Phase 1: Data Collection
+ ### Phase 1: Data Collection
 - ##### We are using two tables which are available at MySQL database:
  - **olympics_history** table where each row corresponds to an individual athlete competing in an individual Olympic event.
  - **olympics_history_noc_regions** contains NOC(National Olympic Committee  a 3-letter code) which helps us to add country information and its corresponding region from its NOC code.
 
- - ### Phase 2: Data Understanding
+ ### Phase 2: Data Understanding
  - #### olympics_history table
 
 1. Id:
@@ -78,3 +78,9 @@
   - Represents in which region olympic games was hosted.
 3. notes:
  - Represents some additional notes with respect to every region.
+
+### Phase 3: Data Analysis
+#### Q.1 Find the oldest year of Olympics and and find out count of sports played in that year?
+- Found that oldest year of olympics is is **1896**.
+- Gymnastics has highest number of participation i.e **73** in the year 1896.
+  <img width="1000" alt="Screenshot 2023-08-21 at 15 32 49" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/bb7bc354-c0f4-49a1-8271-b3c6454be553">

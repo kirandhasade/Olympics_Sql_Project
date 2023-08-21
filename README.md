@@ -129,8 +129,8 @@
 <img width="152" alt="Screenshot 2023-08-21 at 15 54 40" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/6ccb5f06-a114-403b-8042-3173d69a1c76">
 
 #### Q.11 Break down all Olympic games where India won a medal for Hockey and how many medals in each Olympic game.
-- India has won most of the medals i.e. **18** in 1936 Summer Olympics games  while least i.e. **11** in 1932 Summer Olympics games for Hockey.
-  <img width="1003" alt="Screenshot 2023-08-21 at 15 56 27" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/f1543d12-bfc7-4ecf-b99c-1270ec11f0ab">
+- India has won most of the medals i.e. **18** in 1936 Summer Olympics games  while least i.e. **11** in 1932 Summer Olympics games for Hockey
+ <img width="1003" alt="Screenshot 2023-08-21 at 15 56 27" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/f1543d12-bfc7-4ecf-b99c-1270ec11f0ab">
 
   #### Q.12 List top 15 down total gold, silver and bronze medals won by each country corresponding to each Olympic games.
   - Russia has won most of the gold medals i.e. **187** in 1984 Summer Olympic games,while USA won least number of medals in 1904 Summer i.e. **115**.

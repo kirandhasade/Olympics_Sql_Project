@@ -84,3 +84,8 @@
 - Found that oldest year of olympics is is **1896**.
 - Gymnastics has highest number of participation i.e **73** in the year 1896.
   <img width="1000" alt="Screenshot 2023-08-21 at 15 32 49" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/bb7bc354-c0f4-49a1-8271-b3c6454be553">
+
+#### Q.2 Find the latest year of olympics and and find count of countries played in that year?
+- Found that latest year of Olympics is 2016.
+- Athletics has highest number of participation i.e. **2507** in the year 2016.
+- <img width="997" alt="Screenshot 2023-08-21 at 15 34 36" src="https://github.com/kirandhasade/Olympics_Sql_Project/assets/127043120/d99cd12c-4937-49ac-9f21-f9bdaebceb9a">
